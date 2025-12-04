@@ -1,10 +1,16 @@
 <!-- Typing Animation Title -->
 <h1 align="center">Hi 👋, I'm <b>Kiran Manupati</b></h1>
 
-<p align="center">
+<h3 align="center">
 <b>Full Stack Developer | Android Developer | Tech Innovator | Vision Creator</b><br>
-"Transforming ideas into digital reality. Engineers’ solutions define the coming future."
+  </h3>
+  <p align="center">
+  <i style="font-size:20px; font-style:italic;">
+    "Transforming ideas into digital reality. Engineers’ solutions defines the coming future."
+  </i>
 </p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=36BCF7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Android+Developer;Tech+Enthusiast+%26+Problem+Solver" />
@@ -50,6 +56,9 @@ Building apps with modern UI/UX, using Figma for seamless and modern interface d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ## 🎨 **Frontend**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
