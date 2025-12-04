@@ -13,9 +13,9 @@
 ---
 
 ## 🌟 **About Me**
-- I am **Kiran Manupati**, a Full Stack Developer and Tech Innovator currently pursuing my **B.Tech (3rd Year)**.  
-- I develop **Web and Android applications**, transforming ideas from *concept → code → deployment*.  
-- 👨‍💻 Passionate about building modern, scalable, user-friendly applications.  
+I am **Kiran Manupati**, a Full Stack Developer and Tech Innovator currently pursuing my **B.Tech (3rd Year)**.   
+I develop **Web and Android applications**, transforming ideas from *concept → code → deployment*.   
+👨‍💻 Passionate about building modern, scalable, user-friendly applications.   
 - 🧠 Skilled in **full-stack projects**, Android apps, automation tools, and AI-powered applications.  
 - 🤝 Open to collaboration on innovative, impactful real-world projects.  
 - 🎯 Goal: Become a highly skilled **multi-domain developer & startup founder**.
@@ -26,35 +26,47 @@
 ### **AI-Driven TechRevive**  
 A platform that transforms outdated technology into smarter, future-ready innovation.
 
-### **AI High-Performer Engine**  
-A system where platforms **rebuild, improve, and reinvent themselves** using AI.
-
 ---
 
 ## ⭐ **Featured Projects**
-1. **AI-Driven TechRevive**  
-2. **Secure Photo Sharing & Protection App**  
-3. **Full-Stack Web Applications (MERN)**  
-4. **Android Apps with Modern UI/UX (Figma-based design)**  
+
+### 🤖 **AI-Driven TechRevive**  
+Transforms outdated technology into future-ready intelligent solutions.
+
+### 🖼️📷 **Secure Photo Sharing and Protection App**  
+this ensures complete control and privacy over digital images, even after sharing.
+
+### 🌐 **Full-Stack Web Applications**  
+Latest web applications built with MERN
+
+### 📱 **Android Applications**  
+Building apps with modern UI/UX, using Figma for seamless and modern interface design.
 
 ---
 
 ## 🛠️ **Tech Stack**
 
-### 🚀 Languages  
-`Python` · `JavaScript` · `Java`
+## 💼 **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🖥️ Frontend  
-`HTML` · `CSS` · `React`
+## 🎨 **Frontend**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### ⚙️ Backend  
-`Node.js` · `Express` · `Django` · `FastAPI`
+## 🔧 **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 📱 Mobile  
-`Android Development`
+## 📱 **Mobile**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### 🔧 DevOps & Tools  
-<p align="center">
+### 🔧 **DevOps & Tools**  
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -73,13 +85,13 @@ A system where platforms **rebuild, improve, and reinvent themselves** using AI.
 
 ## 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/themanupati22" target="_blank">
+  <a href="https://www.linkedin.com/in/themanupati22" target="_https://www.linkedin.com/in/themanupati22/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-  <a href="mailto:kiranmanupati7557@gmail.com" target="_blank">
+  <a href="mailto:kiranmanupati7557@gmail.com" target="_kiranmanupati7557@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
-  <a href="https://instagram.com/themanupati22" target="_blank">
+  <a href="https://instagram.com/themanupati22" target="_https://www.instagram.com/themanupati22/">
     <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
   </a>
 </p>
